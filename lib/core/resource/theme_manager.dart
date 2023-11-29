@@ -13,7 +13,7 @@ class ThemeManager {
       textTheme: TextTheme(
         bodyLarge: tekoBoldTextManger(
           fontColor: ColorManager.whiteColor,
-          textSize: FontSizeManager.s22,
+          textSize: FontSizeManager.s52,
         ),
         
       ),
